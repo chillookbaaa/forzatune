@@ -1,5 +1,7 @@
 # 🏁 FH6 Tune Calculator
 
+Visit this link to try forzatune : https://chillookbaaa.github.io/forzatune/
+
 A lightweight single-file tuning calculator for **Forza Horizon 6**.  
 Built to help create, compare, and revise car setups using car stats, upgraded build data, track profile, and real Forza test results.
 
